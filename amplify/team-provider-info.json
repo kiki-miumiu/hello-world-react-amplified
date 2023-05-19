@@ -10,6 +10,11 @@
       "StackName": "amplify-helloworld-dev-135336",
       "StackId": "arn:aws:cloudformation:us-east-1:346717418265:stack/amplify-helloworld-dev-135336/be35e110-f5f8-11ed-81df-1265bf2048a5",
       "AmplifyAppId": "d1svgs5r9mnrru"
+    },
+    "categories": {
+      "api": {
+        "helloworld": {}
+      }
     }
   }
 }
